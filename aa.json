@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "Camaçari",
+        "region": "Bahia",
+        "country": "Brasil",
+        "lat": -12.48,
+        "lon": -38.22,
+        "tz_id": "America/Bahia",
+        "localtime_epoch": 1647829406,
+        "localtime": "2022-03-20 23:23"
+    },
+    "current": {
+        "last_updated_epoch": 1647828900,
+        "last_updated": "2022-03-20 23:15",
+        "temp_c": 22.3,
+        "temp_f": 72.1,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 3.1,
+        "wind_kph": 5.0,
+        "wind_degree": 124,
+        "wind_dir": "SE",
+        "pressure_mb": 1013.0,
+        "pressure_in": 29.92,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 93,
+        "cloud": 11,
+        "feelslike_c": 24.7,
+        "feelslike_f": 76.5,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 6.3,
+        "gust_kph": 10.1
+    }
+}
