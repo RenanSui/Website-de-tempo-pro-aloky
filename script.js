@@ -15,7 +15,7 @@ const btn = document.querySelector('.submit');
 const cities = document.querySelectorAll('.city');
 
 //default city
-let cityInput = 'London';
+let cityInput = 'Zermatt';
 
 //add click event to each city in the panel
 cities.forEach((city) => {
