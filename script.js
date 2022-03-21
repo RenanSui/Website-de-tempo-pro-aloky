@@ -70,7 +70,6 @@ function fetchWeatherData() {
         //take the data which is in json format and convert to regular js
         .then((response) => response.json())
         .then((data) => {
-            console.log(data);
 
             //adding temperature and weather condition
             temp.innerHTML = data.current.temp_c + '&#176;';
